@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Devops learning
 - 📫 How to reach me lattala.kiran.kumar@gmail.com
-- 😄 Pronouns: uC/me
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: hey fell@s, let's do it...
 
 <!---
